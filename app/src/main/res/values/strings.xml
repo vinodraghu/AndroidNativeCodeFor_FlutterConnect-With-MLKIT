@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ML Kit Example</string>
+
+    <string name="firebase_ml_kit">Firebase ML Kit</string>
+    <string name="text_recognition">Text Recognition</string>
+    <string name="face_detection">Face Detection</string>
+    <string name="barcode_scanning">Barcode Scanning</string>
+    <string name="image_labeling">Image Labeling</string>
+    <string name="landmark_recognition">Landmark Recognition</string>
+    <string name="language_identification">Language Identification</string>
+    <string name="smart_reply">Smart Reply</string>
+    <string name="custom_models">Custom Models</string>
+    <string name="hint_number_1">Enter First Number</string>
+    <string name="hint_number_2">Enter Second Number</string>
+    <string name="t_send_to_flutter">Send to Flutter Module</string>
+    <string name="ml_kit">ML Kit</string>
+    <string name="flutter">Flutter</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

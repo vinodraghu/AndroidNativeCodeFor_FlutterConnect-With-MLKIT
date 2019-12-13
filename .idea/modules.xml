@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirebaseMLKit-master.iml" filepath="$PROJECT_DIR$/FirebaseMLKit-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:/Download/flutter_module/.android/Flutter/flutter.iml" filepath="E:/Download/flutter_module/.android/Flutter/flutter.iml" />
+      <module fileurl="file://E:/Download/flutter_module/flutter_module.iml" filepath="E:/Download/flutter_module/flutter_module.iml" />
+    </modules>
+  </component>
+</project>
